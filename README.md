@@ -7,12 +7,12 @@
   <a href="https://www.linkedin.com/in/darshan-mahajan-74179a23b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/ra_dar101/">
+<!--   <a href="https://www.instagram.com/ra_dar101/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://codeforces.com/profile/radar101">
     <img src="https://img.shields.io/badge/codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <div id="header" align="center">
